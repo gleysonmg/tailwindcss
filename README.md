@@ -1,2 +1,4 @@
 ## Instalação
-Estudo do Tailwind CSS
+npm install -D tailwindcss
+
+### Instalação
