@@ -1,4 +1,10 @@
 ## Instalação
 npm install -D tailwindcss
 
-### Instalação
+### Extensão VS Code
+Tailwind CSS IntelliSense
+
+#### Instalação do npx (caso necessite)
+npm install -g npx
+
+
